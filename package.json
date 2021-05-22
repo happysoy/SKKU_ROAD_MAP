@@ -1,0 +1,27 @@
+{
+  "name": "skku_road_map",
+  "version": "1.0.0",
+  "description": "skku_road_map",
+  "main": "index.js",
+  "dependencies": {
+    "cytoscape": "^3.19.0",
+    "cytoscape-dagre": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jeongsoyeon20/DataStructure_TeamProject.git"
+  },
+  "keywords": [
+    "skku"
+  ],
+  "author": "team5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeongsoyeon20/DataStructure_TeamProject/issues"
+  },
+  "homepage": "https://github.com/jeongsoyeon20/DataStructure_TeamProject#readme"
+}
