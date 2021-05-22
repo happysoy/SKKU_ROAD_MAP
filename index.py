@@ -48,6 +48,5 @@ def seokintro():
 def sointro():
     return render_template("sointro.html")
 
-
-if __name__ == "__main__":
+if __name__ == "__main__": 
     applicationlication.run(host='0.0.0.0', port=80)
